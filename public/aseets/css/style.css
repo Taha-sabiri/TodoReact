@@ -1,0 +1,23 @@
+
+html , #root{
+    height: 100%;
+}
+*{
+    text-align: right;
+    direction: rtl;
+}
+body{
+    direction: rtl;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(9, 185, 93) !important ;
+
+}
+.h_fit{
+    height: fit-content;
+}
+.pointer{
+    cursor: pointer;
+}
